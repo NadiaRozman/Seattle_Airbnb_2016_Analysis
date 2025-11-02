@@ -34,7 +34,7 @@ The dashboard includes:
 [🔗 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nadia.rozman/viz/Seattle_Airbnb_Analysis_2016_17617223428960/Dashboard1)  
 
 ### Static Preview:
-![Seattle Airbnb Dashboard](seattle_airbnb_dashboard.png)
+![Airbnb in Seattle Dashboard](seattle_airbnb_dashboard.png)
 
 ---
 
